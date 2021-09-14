@@ -2,7 +2,7 @@
 
 My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help people. I also love games 🎮
 
-#### Here are some projects I am proud of 
+#### Here are some projects I am proud of: 
 1. [Nectar of the Gods](https://store.steampowered.com/app/1421410/Nectar_of_the_Gods/): An unquenchable multiplayer strategy game where bugs clash over the sweet nectar of sugary beverages.
 2. [Facepunch.Steamworks Tutorial](https://github.com/bthomas2622/facepunch-steamworks-tutorial): A Unity tutorial for the open source *Facepunch.Steamworks* C# Steamworks wrapper. 
 3. [Unity 2D Starter Kit](https://github.com/bthomas2622/unity-2d-starter-kit): Unity 2020 2D Starter Kit Project. Contains a main menu with base features implemented like input handling, player settings, audio, and localization.
