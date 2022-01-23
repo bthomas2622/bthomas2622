@@ -11,7 +11,7 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 - **[Photography Portfolio](https://www.flickr.com/photos/150766453@N07/sets/72157683816082526/)**
 
 #### Currently working on:
-- **[Bread Log](https://bthomas2622.github.io/bread-log/)** is my sourdough bread log! A wheaty harvest of recipe reactions, learnings, reviews and crumb comparisons.
+- **[Bread Log](https://bthomas2622.github.io/bread-log/)** is my sourdough bread log! A wheaty harvest of recipe reactions, learnings, reviews and crumb comparisons. [GitHub](https://github.com/bthomas2622/bread-log).
 
 Say hi on Twitter! **[@freeBrunch 🐦](https://twitter.com/freebrunch)**
 
