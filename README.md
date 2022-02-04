@@ -14,5 +14,3 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 - **[Bread Log](https://bthomas2622.github.io/bread-log/)** (**[GitHub](https://github.com/bthomas2622/bread-log)**) is my sourdough bread log! A wheaty harvest of recipe reactions, learnings, reviews and crumb comparisons.
 
 Say hi on Twitter! **[@freeBrunch 🐦](https://twitter.com/freebrunch)**
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bthomas2622.bthomas2622-badge&left_text=Visitors)
