@@ -12,6 +12,6 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 
 #### Currently working on:
 - **[Bread Log](https://bthomas2622.github.io/bread-log/)** (**[GitHub](https://github.com/bthomas2622/bread-log)**) is my sourdough bread log! A wheaty harvest of recipe reactions, learnings, reviews and crumb comparisons.
-- **[freeBrunch's Discord Bot](https://github.com/bthomas2622/freebrunch-discord-bot)** is my Discord Bot that generates random Apex Legends champions and other fun stuff for my friend's server!
+- **[freeBrunch's Discord Bot](https://github.com/bthomas2622/freebrunch-discord-bot)** is my Discord Bot that generates random Apex Legends champions and other fun stuff.
 
 Say hi on Twitter! **[@freeBrunch 🐦](https://twitter.com/freebrunch)**
