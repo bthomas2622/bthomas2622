@@ -1,6 +1,6 @@
 ### Helloooo 👋
 
-My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help people. I also love baking 🍞 and games 🎮
+My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help people. I also love healthy living 🏃 and games 🎮
 
 #### Here are some projects I am proud of: 
 - **[Nectar of the Gods](https://store.steampowered.com/app/1421410/Nectar_of_the_Gods/)**: An unquenchable multiplayer strategy game where bugs clash over the sweet nectar of sugary beverages.
@@ -11,5 +11,6 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 - **[Photography Portfolio](https://www.flickr.com/photos/150766453@N07/sets/72157683816082526/)**
 - **[Bread Log](https://bthomas2622.github.io/bread-log/)** (**[GitHub](https://github.com/bthomas2622/bread-log)**) is my sourdough bread log! A wheaty harvest of recipe reactions, learnings, reviews and crumb comparisons.
 - **[freeBrunch Discord Bot](https://github.com/bthomas2622/freeBrunch-discord-bot)** is a Discord Bot designed to run on a self hosted server (e.g. raspberry pi). It generates random Apex Legends champions and other fun stuff!
+- **[awesome-triathlon](https://github.com/bthomas2622/awesome-triathlon)** is an [Awesome](https://github.com/sindresorhus/awesome#readme) list of triathlon resources for training help, inspiration, and more.
 
 Say hi on Twitter! **[@freeBrunch 🐦](https://twitter.com/freebrunch)**
