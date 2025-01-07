@@ -14,4 +14,4 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 - **[awesome-triathlon](https://github.com/bthomas2622/awesome-triathlon)** is an [Awesome](https://github.com/sindresorhus/awesome#readme) list of triathlon resources for training help, inspiration, and more.
 - **[freeBrunch-gaming-crossword-wordlist](https://github.com/bthomas2622/freeBrunch-gaming-crossword-wordlist)** is a wordlist for crossword constructors with video game related words.
 
-Say hi on Threads! **[@freeBrunch](https://www.threads.net/@freebrunch)**
+Say hi on Bluesky! **[@freeBrunch](https://bsky.app/profile/freebrunch.bsky.social)**
