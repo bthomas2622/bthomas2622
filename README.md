@@ -13,5 +13,6 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 - **[freeBrunch Discord Bot](https://github.com/bthomas2622/freeBrunch-discord-bot)** is a Discord Bot stuffed with fun commands and automated scripts.
 - **[awesome-triathlon](https://github.com/bthomas2622/awesome-triathlon)** is an [Awesome](https://github.com/sindresorhus/awesome#readme) list of triathlon resources for training help, inspiration, and more.
 - **[freeBrunch-gaming-crossword-wordlist](https://github.com/bthomas2622/freeBrunch-gaming-crossword-wordlist)** is a wordlist for crossword constructors with video game related words.
+- **[GitHub Copilot Metrics API Export Action]** is a GitHub Action that can export metrics from GitHub Copilot Metrics API to a CSV file.
 
 Say hi on Bluesky! **[@freeBrunch](https://bsky.app/profile/freebrunch.bsky.social)**
