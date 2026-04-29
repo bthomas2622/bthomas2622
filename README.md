@@ -15,5 +15,6 @@ My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help 
 - **[freeBrunch-gaming-crossword-wordlist](https://github.com/bthomas2622/freeBrunch-gaming-crossword-wordlist)** is a wordlist for crossword constructors with video game related words.
 - **[GitHub Copilot Metrics API Export Action](https://github.com/marketplace/actions/github-copilot-metrics-api-export)** is a GitHub Action that can export metrics from GitHub Copilot Metrics API to a CSV file.
 - **[Löve Starter Kit](https://github.com/bthomas2622/love2d-starter-kit)**: A Löve 2D starter kit project. Contains a main menu with base features implemented like input handling, player settings, audio, and localization.
+- **[Super Rift Deck](https://bthomas2622.github.io/super-rift-deck/)**: (**[GitHub](https://github.com/bthomas2622/super-rift-deck)**) is a deckbuilder for the Riftbound TCG.
 
 Say hi on Bluesky! **[@freeBrunch](https://bsky.app/profile/freebrunch.bsky.social)**
