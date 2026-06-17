@@ -1,6 +1,6 @@
 ### Helloooo 👋
 
-My name is Ben (he/him) and I am a Solutions Engineer at GitHub. I love to help people. I also love urbanism 🏛️, healthy living 🚴, and games 🎮
+My name is Ben (he/him) and I am a Solutions Engineer currently taking a break! I love to help people. I also love urbanism 🏛️, healthy living 🚴, and games 🎮
 
 #### Here are some projects I am proud of: 
 - **[Nectar of the Gods](https://store.steampowered.com/app/1421410/Nectar_of_the_Gods/)**: An unquenchable multiplayer strategy game where bugs clash over the sweet nectar of sugary beverages.
