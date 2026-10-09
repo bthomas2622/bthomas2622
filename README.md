@@ -16,5 +16,6 @@ My name is Ben (he/him) and I am a Solutions Engineer currently taking a break! 
 - **[GitHub Copilot Metrics API Export Action](https://github.com/marketplace/actions/github-copilot-metrics-api-export)** is a GitHub Action that can export metrics from GitHub Copilot Metrics API to a CSV file.
 - **[Löve Starter Kit](https://github.com/bthomas2622/love2d-starter-kit)**: A Löve 2D starter kit project. Contains a main menu with base features implemented like input handling, player settings, audio, and localization.
 - **[Super Rift Deck](https://bthomas2622.github.io/super-rift-deck/)**: Deckbuilder for the Riftbound TCG.
+- **[Family Cookbook + Meal Planning App](https://bthomas2622.github.io/baria-cookbook/)**: Favorite family recipes with ingredients and instructions.
 
 Say hi on Bluesky! **[@freeBrunch](https://bsky.app/profile/freebrunch.bsky.social)**
